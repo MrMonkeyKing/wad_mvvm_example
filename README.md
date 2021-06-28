@@ -2,10 +2,10 @@ This project was bootstrapped with knockout-cli.
 
 ### Run
 ```
-yarn start
+npm run start
 ```
 
 ### Build for production
 ```
-yarn build
+npm run build
 ```
